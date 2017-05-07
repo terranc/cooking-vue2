@@ -25,6 +25,7 @@
     "vue-template-compiler": "^2 || beta"
   },
   "dependencies": {
-    "vue-loader": ">=9.4.2"
+    "vue-loader": ">=9.4.2",
+    "vux-loader": "^1.0.61"
   }
 }

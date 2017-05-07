@@ -16,7 +16,7 @@ module.exports = function (cooking) {
   // add loader
   cooking.add('loader.vue', {
     test: /\.vue$/,
-    loaders: ['vue-loader']
+    loaders: ['vux-loader!vue-loader']
   })
 
   // add extension

@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "vue-loader": ">=9.4.2",
-    "vux-loader": "^1.0.61"
+    "vux-loader": ">=1.0.61"
   }
 }
